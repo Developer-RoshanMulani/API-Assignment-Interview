@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.album-photo {
+  height: 4rem;
+  width: 4rem;
+  border: 1px solid black;
+}
+
+.album-card {
+  margin: 1rem;
+}
+
+.modal-body {
+  max-height: 80vh;
+  overflow: scroll;
+}
+
+.album-photos {
+  max-height: 10rem;
+  margin: 10px;
+  font-size: 10px;
+}
